@@ -1,0 +1,9 @@
+{
+  "name": "PlayerPinSnap",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/tbsj1ga/PlayerPinSnapValheim",
+  "description": "Other players' map pins jump to them after a teleport instead of crawling across the map, and positions update more often than every 2 seconds.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}
